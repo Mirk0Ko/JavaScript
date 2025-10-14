@@ -8,3 +8,12 @@
  m = 2;
  suma = n + m;
  console.log(suma)
+
+  /* b) */
+
+ var pal1,pal2, palabras;
+
+ pal1 = "mirko";
+ pal2 = "Kovacevich";
+ palabras = pal1 + pal2;
+ console.log(palabras)
