@@ -18,3 +18,12 @@ pal10 = "kovacevich";
 palabra = pal10.toUpperCase();
 
 console.log(palabra)
+
+/* b) */
+
+var p4labra, pal5;
+
+p4labra = "kovacevich";
+
+pal5 = p4labra.substring(0,4);
+console.log(pal5)
